@@ -43,4 +43,4 @@ The modified Boston housing dataset consists of 490 data points, with each datap
 3. `PTRATIO`: pupil-student ratio by town
 
 **Target Variable**
-4. `MEDV`: median value of owner-occupied homes# boston_housing
+4. `MEDV`: median value of owner-occupied homes
